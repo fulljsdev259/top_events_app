@@ -13,7 +13,7 @@
   "dependencies": {
     "@expo/samples": "2.1.1",
     "axios": "^0.18.0",
-    "expo": "^32.0.0",
+    "expo": "^46.0.16",
     "expo-app-auth": "^5.0.1",
     "expo-facebook": "^4.0.0",
     "immutability-helper": "^3.0.0",
